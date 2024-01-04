@@ -1,2 +1,2 @@
 # bookbot
-test
+simple python project done, following tutorial on boot.dev
